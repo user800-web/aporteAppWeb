@@ -1,0 +1,5 @@
+logicbusiness\Conexion.class
+logicbusiness\Customer.class
+controllers\CustomerController.class
+com\mycompany\aporte\resources\JavaEE8Resource.class
+com\mycompany\aporte\JAXRSConfiguration.class

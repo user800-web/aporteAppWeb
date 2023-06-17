@@ -1,0 +1,23 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Roboto', serif;
+    font-size: 48px;
+}
+
+.cabecera {
+    margin: 0px auto;
+    text-align: center;
+    padding: 1em 0px;
+}
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5em;
+}
